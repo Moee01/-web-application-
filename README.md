@@ -1,2 +1,2 @@
 # -web-application-
-//assigment for koznek copmany ( junior assigment )
+//assigment for konzek copmany ( junior assigment )
